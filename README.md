@@ -20,7 +20,7 @@ git clone https://github.com/hustvl/YOLOP.git
 mv inference.py YOLOP/tools/
 ```
 
-To print `fps` on the image/video frames, uncomment line 142 & 143 in the `inference.py` 
+To print `fps` on the image/video frames, uncomment line 137 & 138 in the `inference.py` 
 
 ## Run Inference
 
